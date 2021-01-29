@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Arthur Jardim Azevedo Cury",
+      "email": "arthurjaazevedo@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Maria Jardim Azevedo",
+      "email": "mariajaazevedo@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Murilo Azevedo Fidalgo Orsolini",
+      "email": "muriloorsolini@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Bruno Azevedo Fidalgo Orsolini",
+      "email": "brnorsolini@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "João Azevedo da Silva",
+      "email": "joaoazevedo@empresa.com",
+      "id": 5
+    },
+    {
+      "name": "João Gabriel Marques Azevedo",
+      "email": "jgrelease@thinkidea.com",
+      "id": 6
+    },
+    {
+      "name": "Lívian Jardim Azevedo",
+      "email": "livianjardim@bom.com",
+      "id": 7
+    },
+    {
+      "name": "Ana Laura Azevedo Ferreira Justo Orsolini",
+      "email": "analauraazevedo@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Pedro Henrique Machado Orsolini",
+      "email": "phorsolini@gmail.com",
+      "id": 9
+    }
+  ]
+}
