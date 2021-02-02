@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Main from '../template/Main';
+import Main from '../main/Main';
 import axios from 'axios';
 import { Button } from '@material-ui/core';
 
