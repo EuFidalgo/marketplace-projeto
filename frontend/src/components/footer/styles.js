@@ -6,7 +6,7 @@ const styles = makeStyles(() => ({
         justifyContent: 'center',
         alignItems: 'center',
         display: 'flex',
-        flexDirection: 'column',
+        flexDirection: 'row',
         marginTop: 80,
         position: 'initial' ,
         width: '100%',
