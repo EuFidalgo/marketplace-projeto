@@ -1,11 +1,17 @@
-import './Header.css';
 import React from 'react';
 
 
-export default props =>
-    <header className='header d-none d-sm-flex flex-column'>
-        <h1 className='mt-3'>
-            <i className={`fa fa-${props.icon}`}></i> {props.title}
-        </h1>
-        <p className='lead text-muted'>{props.subtitle}</p>
-    </header>
+const header = () => {
+  const classes = styles();
+
+  return (
+    <div className={classes.header}>
+      <h1 className={classes.headerh1}>
+        <i className={classes.icon} icon='house' }></i> {props.title}
+      </h1>
+      <p className="lead text-muted">{props.subtitle}</p>
+    </div>
+  );
+};
+
+export default header;

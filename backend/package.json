@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"json-server --watch api.json --port 3001"
+    "start": "json-server --watch api.json --port 3001"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fontsource/roboto-mono": "^4.2.0",
     "json-server": "0.13.0"
   }
 }

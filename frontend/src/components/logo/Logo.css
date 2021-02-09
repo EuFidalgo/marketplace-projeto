@@ -1,8 +1,8 @@
 aside.logo {
-    background-color:rgba(0, 0, 0, 0.900);
+    background-color:#02080c;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start;
+    align-items: flex-start;
     box-shadow: black;
 }
 

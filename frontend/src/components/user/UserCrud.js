@@ -154,7 +154,7 @@ render() {
         <Main {...headerProps}>
             {this.renderForm()}
             {this.renderTable()}
-        </Main>
+        </Main> 
     )
 }
 

@@ -8,9 +8,9 @@ const styles = makeStyles(() => ({
         display: 'flex',
         flexDirection: 'row',
         marginTop: 80,
-        position: 'initial' ,
+        position: 'initial',
         width: '100%',
-        
+
     },
     root: {
         alignItems: 'center',
@@ -27,4 +27,4 @@ const styles = makeStyles(() => ({
     }
 }));
 
-export default styles;
+export default styles; 

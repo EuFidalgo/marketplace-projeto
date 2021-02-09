@@ -4,20 +4,21 @@ import styled from 'styled-components';
 
 export const styles = makeStyles(() => ({
 
-    asideMenu: {
-        // backgroundColor: 'green',
-        boxShadow: "2 0px 10 0px rgba(0, 0, 0, 0.12) 2 0px 4 0px rgba(0, 0, 0, 2)"
-    },
-
-    menuA: {
+    buttonA: {
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'space-around',
         width: '100%',
-        height: 30,
-        // backgroundColor: 'rgba(0, 0, 0, 0.850)',
-        // backgroundImage: 'https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqNWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtlmStsd2sDcUfpLNXGEuiYJ0l3ItOB2NQnbApjIbI5uVKMQC30MQkzNB%25Km7jAOShKViSF%25vq4BTyLRgO6YaxPbErH1yJRn8wY8WoiZr7YM4FnmwTg95v36PDCcpSeWznStsd8hQcUfiUNXGE4TXJ0lg6ZOB2PbnbAp7ioI5uKMTQmIJwF1kX6PDGmhSc63ZstXSBPycUf8McXGEH9NJ0lUIrOB2GW2bAp5tRI5uCc2QC3zkpkzNtTNm7sDgubYwR9hDs%25HrjBj6hVNpLLxdYfqJVf%25XEd9B96N683eUHpi3v1LfIVf&imgt=P27&bkgnd=9&pov=BE140,DZO&im=Crop,rect=(290,250,1280,580);Resize,width=300'
+        height: 50,
+        background: '#02080c',
+        color: 'white',
     },
+    menuA: {
+        diplay: 'flex',
+        flexDirection: 'column',
+        width: 500,
+
+    }
 }))
 
 export const navStyled = styled.div
