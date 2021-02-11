@@ -2,7 +2,7 @@ import { makeStyles } from '@material-ui/core';
 import styled from 'styled-components';
 
 
-export const styles = makeStyles(() => ({
+export const useStyles = makeStyles(() => ({
 
     buttonA: {
         display: 'flex',

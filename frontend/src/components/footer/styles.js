@@ -1,6 +1,6 @@
 import { makeStyles } from '@material-ui/core';
 
-const styles = makeStyles(() => ({
+const useStyles = makeStyles(() => ({
     fixarRodape: {
         background: 'black',
         justifyContent: 'center',
@@ -27,4 +27,4 @@ const styles = makeStyles(() => ({
     }
 }));
 
-export default styles; 
+export default useStyles; 
