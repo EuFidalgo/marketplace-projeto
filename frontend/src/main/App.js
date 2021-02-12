@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 import Logo from '../components/topBar';
 import { Navigation } from '../components/nav';
-import Routes from './Routes';
+import Routes from '../routes/index';
 import Footer from '../components/footer/index';
 
 export default props =>

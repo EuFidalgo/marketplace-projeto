@@ -6,11 +6,11 @@ const useStyles = makeStyles(() => ({
     display: 'flex',
     alignItems: 'flex-start',
     height: 60,
+    position: 'aboslute',
     
   },
-  circle: {
+  circleUser: {
     display: 'flex',
-    justifyContent: 'flex-end',
     color: 'white',
   },
 
@@ -20,6 +20,11 @@ const useStyles = makeStyles(() => ({
     alignItems: 'flex-end',
     background: '#02080c',
   },
+  SearchIcon: {
+    display: 'flex',
+    color: 'white',
+  }
+
 }));
 
 export default useStyles;

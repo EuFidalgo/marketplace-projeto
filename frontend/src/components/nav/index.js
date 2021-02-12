@@ -29,7 +29,6 @@ export const Navigation = () => {
                 className={classes.menuA}
                 id="simple-menu"
                 anchorEl={anchorEl}
-                keepMounted
                 open={Boolean(anchorEl)}
                 onClose={handleClose}
             >
